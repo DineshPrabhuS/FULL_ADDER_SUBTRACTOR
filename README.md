@@ -46,6 +46,7 @@ Write the detailed procedure here
 
 /* Program to design a full adder and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 */
+
 **Full Adder**
 ```
 module ex4a(sum,cout,a,b,cin);
@@ -82,6 +83,7 @@ endmodule
 
  Developed by: Dinesh Prabhu S
  Register Number: 24004388
+
 **RTL Schematic**
 
 **Full Adder**
